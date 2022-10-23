@@ -1,2 +1,3 @@
 # optimization
-# This is about convex optimization. Enjoy!
+
+This is about convex optimization. Enjoy!
